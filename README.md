@@ -1,4 +1,4 @@
-# TP2-Jeux-de-mots
+# TRAITEMENT DU SIGNLA - TP2-Jeux-de-mots
 Synthèse et analyse spectrale d’une gamme de musique
 
 ![image](https://user-images.githubusercontent.com/90354895/215298450-5ab624d6-7ca3-4c17-b5d3-73adfe99b864.png)
